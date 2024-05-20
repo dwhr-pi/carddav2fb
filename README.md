@@ -4,6 +4,7 @@ https://www.ip-phone-forum.de/threads/carddav-to-fritzbox-2-0-aka-carddav2fb.298
 carddav2fb - Search https://www.bing.com/search?&pc=HWMB&form=HWMBFC&q=carddav2fb  
 CalDAV und CardDAV Adressen Liste für Mailanbieter https://usefulvid.com/liste-von-caldav-und-carddav-adressen/
 
+https://www.bing.com/videos/riverview/relatedvideo?&q=Deutschland+Telefonbuch+als+%22CardDAV%22+Anbieter&&mid=DAA2FC0B1FE028D8D636DAA2FC0B1FE028D8D636&&FORM=VRDGAR
 
 # CardDAV contacts import for AVM FRITZ!Box
 
