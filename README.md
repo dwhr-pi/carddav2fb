@@ -5,6 +5,7 @@ carddav2fb - Search https://www.bing.com/search?&pc=HWMB&form=HWMBFC&q=carddav2f
 CalDAV und CardDAV Adressen Liste für Mailanbieter https://usefulvid.com/liste-von-caldav-und-carddav-adressen/
 
 https://www.bing.com/videos/riverview/relatedvideo?&q=Deutschland+Telefonbuch+als+%22CardDAV%22+Anbieter&&mid=DAA2FC0B1FE028D8D636DAA2FC0B1FE028D8D636&&FORM=VRDGAR
+https://youtu.be/xrw0O2K8m3k
 
 # CardDAV contacts import for AVM FRITZ!Box
 
