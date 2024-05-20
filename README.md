@@ -1,8 +1,8 @@
 The most active fork AFAIK is this one: https://github.com/andig/carddav2fb (with PHP8 support).  
 Some more Informations about CardDav
-https://www.ip-phone-forum.de/threads/carddav-to-fritzbox-2-0-aka-carddav2fb.298117/page-8. 
-carddav2fb - Search https://www.bing.com/search?&pc=HWMB&form=HWMBFC&q=carddav2fb
-
+https://www.ip-phone-forum.de/threads/carddav-to-fritzbox-2-0-aka-carddav2fb.298117/page-8  
+carddav2fb - Search https://www.bing.com/search?&pc=HWMB&form=HWMBFC&q=carddav2fb  
+CalDAV und CardDAV Adressen Liste für Mailanbieter https://usefulvid.com/liste-von-caldav-und-carddav-adressen/
 
 
 # CardDAV contacts import for AVM FRITZ!Box
