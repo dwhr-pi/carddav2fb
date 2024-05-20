@@ -4,6 +4,10 @@ The most active fork AFAIK is this one: https://github.com/andig/carddav2fb (wit
 
 [![Build Status](https://scrutinizer-ci.com/g/jens-maus/carddav2fb/badges/build.png?b=master)](https://scrutinizer-ci.com/g/jens-maus/carddav2fb/build-status/master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/jens-maus/carddav2fb/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/jens-maus/carddav2fb/?branch=master)
 
+Some Informations about CardDav
+https://www.ip-phone-forum.de/threads/carddav-to-fritzbox-2-0-aka-carddav2fb.298117/page-8
+
+
 Features:
 
 * Allows to import CardDAV-based VCard contacts (e.g. from 'owncloud') to a phonebook in a AVM FRITZ!Box
